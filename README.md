@@ -7,7 +7,7 @@ CCAnr is a local search solver for SAT, which is particularly designed for effic
 To build the solver, please run build.sh, and it will generate a new folder /binary and compile the codes to generate the CCAnr binary; additionally, the CCAnr binary will be copied to the /binary folder.
 
 Please run CCAnr as
-./CCAnr <instance file> <random seed>
+./CCAnr instance_file random_seed
 
 Reference:
 Shaowei Cai, Chuan Luo, Kaile Su:
